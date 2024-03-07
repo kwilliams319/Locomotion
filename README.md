@@ -6,4 +6,4 @@ The simplest model of passive dynamics walkers and contact mechanics
 
 ## Massless Compass Gait
 A simple extension of the rimless wheel. Legs are massless and controlled to desired impact angle.
-![](MasslessCompasGait.gif)
+![](MasslessCompassGait.gif)
