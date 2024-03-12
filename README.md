@@ -8,6 +8,6 @@ The simplest model of passive dynamics walkers and contact mechanics
 A simple extension of the rimless wheel. Legs are massless and controlled to desired impact angle.
 ![](MasslessCompassGait.gif)
 
-## 2d Forward and Reverse Kinematics
+## 2d Forward and Inverse Kinematics
 A prequel to foot placement
 ![](Manipulator2d.gif)
